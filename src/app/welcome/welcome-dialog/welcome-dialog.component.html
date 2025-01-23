@@ -1,0 +1,17 @@
+<div class="dialog-container">
+    <img loading="lazy" src="./assets/template/welcome/bubble-frame.png" alt="Welcome Speech Bobble"/>
+    <div class="console">
+        <p class="hello" i18n="dialog@@hello">Hallo!</p>
+        <span
+            class="txt-rotate"
+            appTypingAnimation
+            [phrasePeriod]="2000"
+            [startDelay]="1500"
+            [typeSpeed]="200"
+            [data]='[
+                {
+                    "phrases": [ "Willkommen auf meiner Webseite!", "Hier finden Sie einen Einblick in meine Arbeit als Software Engineer.", "Nehmen Sie gerne Kontakt mit mir auf!" ]
+                }
+            ]'></span>
+    </div>
+</div>

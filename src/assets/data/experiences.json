@@ -1,0 +1,262 @@
+[
+    {
+        "id": 1,
+        "position": 1,
+        "startAt": "09-01-2008",
+        "endAt": "06-30-2013",
+        "companyName": "Ellipse Solutions",
+        "website": "https://ellipsesolutions.com/",
+        "logo": "assets/template/experience/logo/ellipse-solutions.jpg",
+        "internationalizations": [
+            {
+                "city": "Chisinau",
+                "country": "Republik Moldau",
+                "role": "MS Dynamics AX ERP Engineer",
+                "description": "Ellipse Solutions wurde 2006 gegründet und ist ein Microsoft Gold Beratungs- und Implementierungspartner für Microsoft Dynamics 365/AX/CRM.<br><br>Im Rahmen mehrerer Projekte wurden MS Dynamics AX 2009 und AX 2012 ERP Systeme eingefürt und unterstützt. Zu den Aufgaben zählten die Erweiterung und Anpassung der Systeme, die Durchführung von Performanceanalysen sowie die Entwicklung von SSRS Reports zur Verbesserung der Berichterstattung."
+            }
+        ],
+        "technologies": [
+            "MS Dynamics AX 2009", "MS SQL Server", "X++", "MS Dynamics AX 2012", "MS SQL Server Reporting Services (SSRS)"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn Ellipse Solutions",
+                "http": "https://de.linkedin.com/company/ellipse-solutions"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook Ellipse Solutions",
+                "http": "https://www.facebook.com/EllipseSolutions/"
+            },
+            {
+                "icon": "youtube",
+                "title": "YouTube Ellipse Solutions",
+                "http": "https://www.youtube.com/@Ellipsesolutions/featured"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/chisinau.jpg"
+    },
+    {
+        "id": 2,
+        "position": 2,
+        "startAt": "07-01-2013",
+        "endAt": "04-30-2015",
+        "companyName": "W+P Solutions GmbH & Co. KG",
+        "website": "https://www.walter-partner.com/",
+        "logo": "assets/template/experience/logo/w+p.jpg",
+        "internationalizations": [
+            {
+                "city": "Stuttgart",
+                "country": "Deutschland",
+                "role": "MS Dynamics AX 2012 ERP Software Engineer",
+                "description": "<b>W+P Solutions</b> ist ein zertifizierter Microsoft Dynamics AX Partner, der seit 30 Jahren der Beratung und Software-Entwicklung für die Fashion-Branche sich widmet.<br><br>Entwicklung einer ERP-Branchenlösung WP Fashion Dynamics AX für Einzelhandelsunternehmen auf Basis von MS Dynamics AX 2012. Der Fokus lag auf der Entwicklung branchenspezifischer Funktionen sowie der Entwicklung von Schnittstellen zwischen dem PDM-System und Dynamics AX. Weitere Aufgaben umfassten den Aufbau von Dev-/Test Umgebungen."
+            }
+        ],
+        "technologies": [
+            "MS Dynamics AX 2012", "MS SQL Server", "X++", "MS SQL Server Reporting Services (SSRS)" 
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn W+P Solutions GmbH & Co. KG",
+                "http": "https://www.linkedin.com/company/w-p-solutions"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook W+P Solutions GmbH & Co. KG",
+                "http": "https://www.facebook.com/WPSolutionsGmbHCo.Kg"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/wp.jpg"
+    },
+    {
+        "id": 3,
+        "position": 3,
+        "startAt": "05-01-2015",
+        "endAt": "04-30-2019",
+        "companyName": "HSO Enterprise Solutions GmbH",
+        "website": "https://www.hso.com/de/",
+        "logo": "assets/template/experience/logo/hso.jpg",
+        "internationalizations": [
+            {
+                "city": "Böblingen",
+                "country": "Deutschland",
+                "role": "Senior MS Dynamics AX/365 Finance ERP Software Engineer",
+                "description": "Als größter unabhängiger Beratungs- und Implementierungspartner für Microsoft Dynamics 365 unterstützt <b>HSO</b> die Unternehmen aus den Bereichen Retail, Wholesale, Manufacturing und Project & Service auf ihrem Weg der Digitalen Transformation.<br><br>Im Rahmen mehrerer Projekte wurde die Einführung des MS Dynamics AX/365 Finance ERP-Systems konzipiert und umgesetzt. Als Senior Entwickler umfassten die Aufgaben die operative Analyse und Entwicklung in Dynamics AX/365 sowie die Abstimmung von Anforderungen anhand von Lasten- und Pflichtenheften. Neben der Koordination externer Entwickler lag der Schwerpunkt auf der Qualitätssicherung und dem fachlichen Coaching von Kollegen."
+            }
+        ],
+        "technologies": [
+            "MS Dynamics 365 Finance and Operations", "MS Azure", "MS Dynamics AX 2012", "MS SQL Server", "X++", "MS SQL Server Reporting Services (SSRS)" 
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn HSO",
+                "http": "https://de.linkedin.com/company/hso"
+            },
+            {
+                "icon": "youtube",
+                "title": "YouTube HSO",
+                "http": "https://www.youtube.com/user/HSO4DynamicsAX"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook HSO",
+                "http": "https://www.facebook.com/HSOgermany/"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/hso.jpg"
+    },
+    {
+        "id": 4,
+        "position": 4,
+        "startAt": "06-01-2019",
+        "endAt": "11-30-2021",
+        "companyName": "Materna Information & Communications SE",
+        "website": "https://www.materna.de/",
+        "logo": "assets/template/experience/logo/materna.jpg",
+        "internationalizations": [
+            {
+                "city": "Berlin",
+                "country": "Deutschland",
+                "role": "Backend DevOps Engineer",
+                "description": "<b>Materna</b> ist ein IT-Dienstleister, der international aufgestellt ist und beschäftigt über 4.000 Mitarbeitende an weltweit über 40 Standorten. Materna realisiert innovative und nachhaltige IT- und Digitalisierungsprojekte für mehr als 1.200 Kunden. Dazu gehören DAX-Konzerne, gehobener Mittelstand und viele Bundes- und Landesbehörden.<br><br>An folgenden Projekten war ich beteiligt:<ul><li>Aufbau und Inbetriebnahme einer Microservices Basisinfrastruktur und eines Archivsystems für eine Verkehrsmanagementzentrale auf Basis von Kubernetes, Kafka und MongoDB.</li><li>Modernisierung einer Fachanwendung der öffentlichen Verwaltung mit einer Containerbasierten Architektur auf Basis von Docker, Red Hat OpenShift und Kafka.</li><li>Entwicklung eines Push-Dienst zum Nachrichtenversand an mobile Endgeräte mit Java Spring Boot für eine Mobile App zur Bürgerinformation.</li></ul>"
+            }
+        ],
+        "technologies": [
+            "Java", "Spring Boot", "Microservices", "Kafka", "MongoDB", "Docker", "OpenShift", "EFK(Elasticsearch, Fluentd & Kibana)", "CI/CD", "Tekton", "Keycloak", "Maven"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn Materna Information & Communications SE",
+                "http": "https://de.linkedin.com/company/materna-information-communications-se"
+            },
+            {
+                "icon": "youtube",
+                "title": "YouTube Materna Information & Communications SE",
+                "http": "https://www.youtube.com/user/MATERNAGmbH"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook Materna Information & Communications SE",
+                "http": "https://www.facebook.com/Materna.SE/"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/materna.jpg"
+    },
+    {
+        "id": 5,
+        "position": 5,
+        "startAt": "11-01-2021",
+        "endAt": "01-31-2023",
+        "companyName": "adesso SE",
+        "website": "https://www.adesso.de/",
+        "logo": "assets/template/experience/logo/adesso.jpg",
+        "internationalizations": [
+            {
+                "city": "Berlin",
+                "country": "Deutschland",
+                "role": "Senior Backend Software Engineer",
+                "description": "Die <b>adesso SE</b> ist ein börsennotiertes Beratungs- und IT-Dienstleistungsunternehmen mit Hauptsitz in Dortmund. Adesso wird in der Lünendonk-Liste 2024 auf Platz 6 von 25 der führenden IT-Beratungs- und Systemintegrations-Unternehmen in Deutschland gelistet.<br><br>Im Auftrag von adesso wurde es an der Entwicklung einer Zahnarzt-Praxisverwaltungssoftware gearbeitet, die die gesetzliche Anforderungen wie das E-Rezept umsetzt. Die Lösung basierte auf einer Microservices mit Ports- and Adapters(aka Hexagonale) Architektur. Agile Methoden wie Scrum, TDD und Clean Code wurden genutzt, um eine hohe Codequalität zu gewährleisten."
+            }
+        ],
+        "technologies": [
+            "Java", "Spring Boot", "Microservices", "Ports & Adapters (aka hexagonal) architecture", "Clean Code", "Spring Cloud", "REST", "OpenAPI", "Docker", "PostgreSQL", "Maven", "Scrum" 
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn adesso SE",
+                "http": "https://de.linkedin.com/company/adesso-se"
+            },
+            {
+                "icon": "youtube",
+                "title": "YouTube adesso SE",
+                "http": "https://www.youtube.com/c/adessoSE"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook adesso SE",
+                "http": "https://www.facebook.com/adessoSE/about/"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/adesso.jpg"
+    },
+    {
+        "id": 6,
+        "position": 6,
+        "startAt": "02-01-2023",
+        "endAt": "12-31-2023",
+        "companyName": "REWE digital",
+        "website": "https://www.rewe-digital.com/de",
+        "logo": "assets/template/experience/logo/rewe.jpg",
+        "internationalizations": [
+            {
+                "city": "Köln",
+                "country": "Deutschland",
+                "role": "Freelance Fullstack Software Engineer",
+                "description": "Die <b>REWE digital</b> ist verantwortlich für die Digitalisierung im Lebensmittelhandel. Mit modernen Technologien und rund 2.250 Mitarbeitenden treibt sie Innovationen voran, entwickelt den Warenkorb von heute und morgen, arbeitet an Lager- und Liefersystemen und überarbeitet gängige Workflows neu.<br><br>In diesem Projekt wurde eine Marktbuchhaltungssoftware konzipiert und entwickelt, wobei das Backend auf Spring Boot und das Frontend auf Angular basierte. Die Anwendung wurde in einer Kubernetes Umgebung(Rancher) bereitgestellt und optimiert, ergänzt durch den Aufbau von CI/CD Pipelines mit GitLab CI."
+            }
+        ],
+        "technologies": [
+            "Java", "Spring Boot", "Kafka", "Angular", "TypeScript", "HTML5", "CSS3", "REST", "Rancher", "PostgreSQL", "GitLab", "Maven", "Scrum", "Linux"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn REWE digital",
+                "http": "https://de.linkedin.com/company/rewedigital"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook REWE digital",
+                "http": "https://www.facebook.com/rewegroup"
+            },
+            {
+                "icon": "youtube",
+                "title": "REWE digital Youtube",
+                "http": "https://www.youtube.com/channel/UC2ze5EWDzojgYsStBJjT5Qg"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/rewe.jpg"
+    },
+    {
+        "id": 7,
+        "position": 7,
+        "startAt": "01-01-2024",
+        "companyName": "R+V Allgemeine Versicherung AG",
+        "website": "https://www.ruv.de",
+        "logo": "assets/template/experience/logo/rv-versicherung_logo.jpg",
+        "internationalizations": [
+            {
+                "city": "Wiesbaden",
+                "country": "Deutschland",
+                "role": "Backend DevOps Engineer",
+                "description": "Die <b>R+V</b> ist der Versicherer der FinanzGruppe Volksbanken Raiffeisenbanken und bietet gemeinsam mit ihren genossenschaftlichen Partnern die gesamte Palette an Finanzdienstleistungen an.<br><br>Ich bin verantwortlich für die Weiterentwicklung und Betrieb eines Komplettsystems(Produktmodellierung, Bestandsverwaltung und Leistungsbearbeitung) zur Absicherung von Krediten durch Restschuldversicherungen. Dabei wurde ein Integrationsservice mit Quarkus und Kafka entwickelt. Zur Überwachung wurde ELK Stack(Elasticsearch, Logstash und Kibana) eingerichtet, während CI/CD Pipelines erstellt und Deployment-Prozesse mit Ansible automatisiert wurden."
+            }
+        ],
+        "technologies": [
+            "Java", "Quarkus", "Jakarta EE", "WildFly Application Server", "Spring Boot", "Kafka", "REST", "OpenAPI", "PostgreSQL", "CI/CD", "Jenkins", "Docker", "Ansible", "Elastic Stack", "Maven", "Scrum", "Linux", "Azure"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn R+V Versicherung",
+                "http": "https://www.linkedin.com/company/r-v-versicherung"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook R+V Versicherung",
+                "http": "https://www.facebook.com/ruv.de/"
+            },
+            {
+                "icon": "youtube",
+                "title": "Youtube R+V Versicherung",
+                "http": "https://www.youtube.com/@ruv_de"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/rv.jpg"
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "internationalizations": [
+        {
+            "language": "en",
+            "description": "Mit über 15 Jahren Berufserfahrung in Softwareentwicklung umfasst die Expertise tiefgreifende Kenntnisse in Backend Entwicklung, Microservices Architekturen und Cloud Technologien. Fundierte Kenntnisse im Java-Ökosystem (Spring Boot, Quarkus) und in DevOps wie CI/CD, Docker, Kubernetes und Ansible prägen die Laufbahn. Zusätzlich umfasst die Erfahrung die langjährige Arbeit im ERP-Bereich mit MS Dynamics AX/365 sowie die Integration und Optimierung komplexer Systemlandschaften."
+        }
+    ],
+    "medias": [        
+        {
+            "icon": "linkedin",
+            "title": "LinkedIn",
+            "http": ""
+        }
+    ],
+    "hobbies": [        
+        {
+            "icon": "biking",
+            "title": "Cycling"
+        },
+        {
+            "icon": "suitcase-rolling",
+            "title": "Travel"
+        },
+        {
+            "icon": "book",
+            "title": "Read"
+        }
+    ]
+}
